@@ -1,0 +1,14 @@
+
+  - cartesian[i][0] = x-coordinate of point i
+  - cartesian[i][1] = y-coordinate of point i
+
+  - polar[i][0] = range of point i
+  - polar[i][1] = angle of point i
+
+  - clusters[i][0] = index of first point of cluster i
+  - clusters[i][1] = index of last point of cluster i
+  - clusters[i][2] = number of points in cluster i
+
+  - features[i][j] = feature j of cluster i
+
+  - labels[i] = label of cluster i
